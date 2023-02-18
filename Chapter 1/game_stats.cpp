@@ -24,7 +24,7 @@ int main(){
 	cout << "\nscore: "			<< score << endl;
 	cout << "distance: "		<< distance << endl;
 	cout << "playAgain: "		<< playAgain << endl;
-	//skipping shieldsUp since you don't genarally print Boolean values
+	//skipping shieldsUp since you don't generally print Boolean values
 	cout << "lives: "			<< lives << endl;
 	cout << "aliensKilled: " 	<< aliensKilled << endl;
 	cout << "engineTemp: "		<< engineTemp << endl;
