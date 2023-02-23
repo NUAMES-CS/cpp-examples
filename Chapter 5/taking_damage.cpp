@@ -9,7 +9,7 @@ using namespace std;
 
 int main(){
 	int health = 80;
-	cout << "Your healts is " << health << "\n\n";
+	cout << "Your health is " << health << "\n\n";
 
 	health = radiation(health);
 	cout << "After radiation exposure your health is " << health << "\n\n";

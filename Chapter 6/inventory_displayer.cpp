@@ -7,7 +7,7 @@
 
 using namespace std;
 
-//paramter vec is a constant reference to a vector of strings
+//paramater vec is a constant reference to a vector of strings
 void display(const vector<string>& inventory);
 
 int main(){
@@ -21,7 +21,7 @@ int main(){
 	return 0;
 }
 
-//paramter vec is a constant reference to a vector of strings
+//paramater vec is a constant reference to a vector of strings
 void display(const vector<string>& vec){
 	cout << "Your items:\n";
 	for (vector<string>::const_iterator iter = vec.begin(); iter != vec.end(); ++iter){

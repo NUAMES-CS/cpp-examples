@@ -1,11 +1,11 @@
 // Instructions
-// Demonstrates writting new functions
+// Demonstrates writing new functions
 
 #include <iostream>
 
 using namespace std;
 
-//function protoype (declaration)
+//function prototype (declaration)
 void instructions();
 
 int main(){

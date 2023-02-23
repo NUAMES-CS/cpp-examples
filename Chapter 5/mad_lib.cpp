@@ -41,7 +41,7 @@ int askNumber(string prompt){
 
 void tellStory(string name, string noun, int number, string bodyPart, string verb){
 	cout << "\nHere's your story:\n";
-	cout << "The famus exploer ";
+	cout << "The famous explorer ";
 	cout << name;
 	cout << " had nearly given up a life-long quest to find\n";
 	cout << "The Lost City of ";
